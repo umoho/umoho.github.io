@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://umoho.github.io</id>
-    <title>Potatomato</title>
-    <updated>2021-12-16T08:01:07.394Z</updated>
+    <title>Potatomato🍟</title>
+    <updated>2021-12-18T05:16:02.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://umoho.github.io"/>
     <link rel="self" href="https://umoho.github.io/atom.xml"/>
-    <subtitle>话说真的有人看吗🤔</subtitle>
+    <subtitle>I prefer to eat it directly rather than dip it in potato chips with ketchup, in fact.😀</subtitle>
     <logo>https://umoho.github.io/images/avatar.png</logo>
     <icon>https://umoho.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Potatomato</rights>
+    <rights>All rights reserved 2021, Potatomato🍟</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://umoho.github.io/post/hello-gridea/</id>
