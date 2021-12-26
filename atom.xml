@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://umoho.github.io</id>
     <title>Potatomato</title>
-    <updated>2021-12-26T06:36:31.100Z</updated>
+    <updated>2021-12-26T08:57:57.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://umoho.github.io"/>
     <link rel="self" href="https://umoho.github.io/atom.xml"/>
@@ -17,16 +17,16 @@
         </link>
         <updated>2021-12-18T15:33:33.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>Welcome to visit my little pages, and nice to meet you!🤝</p>
+<p>Welcome to visit my little Pages, and nice to meet you!🤝</p>
 </blockquote>
 <h2 id="where-is-here">🏠 Where is here</h2>
-<p>A mystery place of the magic.</p>
+<p>A Mystery Space of the Magic. (Although it look like a Webpage. Well, you're right.)</p>
 <h2 id="who-am-i">👨‍💻 Who am I</h2>
-<p>The Contraller of the time and space. Believe it.</p>
-<h2 id="my-loving-things">⛹ My loving things</h2>
-<p>Eating.</p>
+<p>The Controller of the Time and Space. Believe it. (But it's not Anyone could controlling Time and Space, Everything will die a Day. I even cant do Anything before Time.)</p>
+<h2 id="my-loving-things">⛹ My loving Things</h2>
+<p>Eating, Computerscience, DIY and Music. Maybe Drawing.</p>
 <h2 id="chat-with-me">📬 Chat with me</h2>
-<p>Mail umoho@pm.me</p>
+<p>Mail &lt;<a href="mailto:umoho@pm.me">umoho@pm.me</a>&gt;</p>
 ]]></content>
     </entry>
 </feed>
