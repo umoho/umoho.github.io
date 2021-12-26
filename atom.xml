@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://umoho.github.io</id>
     <title>Potatomato</title>
-    <updated>2021-12-18T05:43:09.892Z</updated>
+    <updated>2021-12-26T06:36:31.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://umoho.github.io"/>
     <link rel="self" href="https://umoho.github.io/atom.xml"/>
@@ -20,9 +20,13 @@
 <p>Welcome to visit my little pages, and nice to meet you!🤝</p>
 </blockquote>
 <h2 id="where-is-here">🏠 Where is here</h2>
+<p>A mystery place of the magic.</p>
 <h2 id="who-am-i">👨‍💻 Who am I</h2>
+<p>The Contraller of the time and space. Believe it.</p>
 <h2 id="my-loving-things">⛹ My loving things</h2>
+<p>Eating.</p>
 <h2 id="chat-with-me">📬 Chat with me</h2>
+<p>Mail umoho@pm.me</p>
 ]]></content>
     </entry>
 </feed>
